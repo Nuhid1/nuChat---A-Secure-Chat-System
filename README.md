@@ -2,7 +2,7 @@
 
 **nuChat** is a private, secure, and real-time chat platform built with a **privacy-first mindset**, focused on simplicity, transparency, and full user control.
 
-🔗 Live Project: https://nuchat.netlify.app
+🔗 Live Project: https://thenuchat.netlify.app
 
 nuChat allows users to create an account using **only a username, password, and gender** —  
 **no email, no phone number, and no unnecessary personal data**.
