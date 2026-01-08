@@ -7,8 +7,6 @@
 nuChat allows users to create an account using **only a username, password, and gender** —  
 **no email, no phone number, and no unnecessary personal data**.
 
-This project is actively being developed throughout the year.
-
 ---
 
 ## Vision
@@ -107,12 +105,6 @@ nuChat is built to **serve users**, not to extract value from them.
 No surveillance.  
 No data harvesting.  
 No compromise.
-
----
-
-## License
-
-To be defined.
 
 ---
 
